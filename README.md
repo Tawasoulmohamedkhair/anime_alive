@@ -13,4 +13,4 @@ Upgrade Plan: Select subscription plans with interactive cards.
 The app separates UI, business logic, and data, making it scalable and easy to extend. Moreover, smooth animations enhance the user experience, and on the other hand, the architecture prepares it for future API integration.
 ### App Screenshots
 
-![Anime Alive Screens](assets/mockups/frame.png)
+![Anime Alive Screens](assets/images/frame.png)
