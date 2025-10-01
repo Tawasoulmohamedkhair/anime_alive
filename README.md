@@ -14,3 +14,6 @@ The app separates UI, business logic, and data, making it scalable and easy to e
 ### App Screenshots
 
 ![Anime Alive Screens](assets/screenshot/frame.png)
+Here’s a quick demo of the app:
+
+![App Demo](assets/screenshot/anime.gif)
